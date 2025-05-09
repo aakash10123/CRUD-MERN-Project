@@ -33,6 +33,12 @@ Toast notifications are used to provide real-time feedback to the user, showing 
 
 ---
 
+### 🚀 **Screen Shot**
+
+![Image](https://github.com/user-attachments/assets/2c058b7d-72d5-4300-ada8-67e2d827cb2d)
+
+---
+
 ### 🚀 **Getting Started**
 
 Follow these steps to set up and run the project on your local machine:
